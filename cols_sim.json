@@ -1,0 +1,40 @@
+{
+    "cols": ["DTOBITO", "NATURAL", "DTNASC", "CAUSABAS_O", "SEXO",
+             "RACACOR", "ESTCIV", "ESC", "OCUP",
+             "LOCOCOR", "QTDFILVIVO", "QTDFILMORT", "GRAVIDEZ", "GESTACAO",
+             "PARTO", "OBITOPARTO", "OBITOGRAV", "OBITOPUERP", "ASSISTMED",
+             "EXAME", "CIRURGIA", "NECROPSIA", "CIRCOBITO", "ACIDTRAB",
+             "FONTE", "HORAOBITO", "TPPOS", "DTINVESTIG", "FONTEINV", "CRM",
+             "IDADEhoras", "IDADEdias", "IDADEmeses", "IDADEanos", "munResNome",
+             "munResUf", "munResLat", "munResLon", "munResAlt", "munResArea"],
+    
+    "names": ["DataObito", "Naturalidade", "DataNascimento", "CausaBasica", "Sexo",
+              "RacaCor", "EstadoCivil", "Escolaridade", "Ocupacao",
+              "LocalOcorrenciaObito", "QtdeFilhosVivos", "QtdeFilhosMortos", "GravidezMultiplicidade", "DuracaoGestacao",
+              "TipoParto", "ObitoParto", "ObitoGravidez", "ObitoPuerperio", "AssistenciaMedica",
+              "Exame", "Cirurgia", "Necropsia", "CircunstanciaObito", "AcidenteTrabalho",
+              "FonteInformacao", "HoraObito", "InvestigacaoObito", "DataInvestigacaoObito", "FonteInvestigacaoObito", "CRMResponsavel",
+              "IdadeHoras", "IdadeDias", "IdadeMeses", "IdadeAnos", "NomeMunicipioResidencia",
+              "UFMunicipioResidencia", "LatitudeMunicipioResidencia", "LongitudeMunicipioResidencia", "AltitudeMunicipioResidencia",
+              "AreaMunicipioResidencia"],
+    
+    "cat_cols": ["Sexo", "RacaCor", "EstadoCivil", "Escolaridade", "LocalOcorrenciaObito",
+                 "GravidezMultiplicidade", "DuracaoGestacao","TipoParto", "ObitoParto", "ObitoGravidez",
+                 "ObitoPuerperio", "AssistenciaMedica", "Exame", "Cirurgia", "Necropsia",
+                 "CircunstanciaObito", "AcidenteTrabalho", "FonteInformacao", "InvestigacaoObito", "FonteInvestigacaoObito"],
+
+    "num_cols": ["QtdeFilhosVivos", "QtdeFilhosMortos", "IdadeHoras", "IdadeDias", "IdadeMeses", "IdadeAnos",
+                 "LatitudeMunicipioResidencia", "LongitudeMunicipioResidencia", "AltitudeMunicipioResidencia", "AreaMunicipioResidencia"],
+
+    "dt_cols": ["DataObito", "DataNascimento", "DataInvestigacaoObito"],
+    
+    "unwanted": {"AcidenteTrabalho": ["0", "3", "4"],
+                 "LocalOcorrenciaObito": ["0", "6"],
+                 "GravidezMultiplicidade": ["0", "5"],
+                 "ObitoGravidez": ["0"],
+                 "ObitoPuerperio": ["0"],
+                 "AssistenciaMedica": ["0"],
+                 "Exame": ["0"],
+                 "Cirurgia": ["0"],
+                 "Necropsia": ["0"]}
+}
