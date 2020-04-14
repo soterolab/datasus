@@ -5,7 +5,7 @@ import pandas as pd
 from tqdm import tqdm
 
 file_path = '../../datasus.csv'
-sim_json = './cols_sim.json'
+sim_json = './sim_details.json'
 pkl_file = 'datasus_tidy.pkl'
 
 print('TIDYING datasus CSV:')
@@ -31,6 +31,10 @@ for col, vals in sim['unwanted'].items():
     unwanted = unwanted | datasus[col].isin(vals)
 
 datasus = datasus.loc[~unwanted, :]
+
+print('>>> Selecting by death causes...')
+
+datasus = datasus[datasus.CausaBasica.isin(sim['causes'])]
 
 print('>>> Casting categorical columns...')
 
