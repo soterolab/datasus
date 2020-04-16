@@ -4,7 +4,7 @@ import json
 import pandas as pd
 from tqdm import tqdm
 
-file_path = '../../datasus.csv'
+file_path = './datasus.csv'
 sim_json = './sim_details.json'
 pkl_file = 'datasus_tidy.pkl'
 
