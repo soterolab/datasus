@@ -1,0 +1,274 @@
+causes,code
+Pedestre traumatizado em colisão com um veículo a pedal,V01
+Pedestre traumatizado em colisão com um veículo a motor de duas ou três rodas,V02
+"Pedestre traumatizado em colisão com um automóvel (carro), “pick up” ou caminhonete",V03
+Pedestre traumatizado em colisão com um veículo de transporte pesado ou com um ônibus,V04
+Pedestre traumatizado em colisão com trem (comboio) ou um veículo ferroviário,V05
+Pedestre traumatizado em colisão com outro veículo não-motorizado,V06
+Pedestre traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V09
+"Pedestre traumatizado em um acidente não-de-trânsito, envolvendo outros veículos a motor e os não especificados",V09.0
+Pedestre traumatizado em um acidente não-de-trânsito não especificado,V09.1
+"Pedestre traumatizado em um acidente de trânsito envolvendo outros veículos e os não especificados, a motor",V09.2
+Pedestre traumatizado em um acidente de trânsito não especificado,V09.3
+Pedestre traumatizado em um acidente de transporte não especificado,V09.9
+Ciclista traumatizado em colisão com um pedestre ou um animal,V10
+Ciclista traumatizado em colisão com outro veículo a pedal,V11
+Ciclista traumatizado em colisão com um veículo a motor de duas ou três rodas,V12
+"Ciclista traumatizado em colisão com um automóvel, “pick up” ou caminhonete",V13
+Ciclista traumatizado em colisão com um veículo de transporte pesado ou um ônibus,V14
+Ciclista traumatizado em colisão com um trem ou um veículo ferroviário,V15
+Ciclista traumatizado em colisão com outro veículo não-motorizado,V16
+Ciclista traumatizado em colisão com um objeto fixo ou parado,V17
+Ciclista traumatizado em um acidente de transporte sem colisão,V18
+Ciclista traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V19
+"Condutor traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V19.0
+"Passageiro traumatizado em colisão com outro veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V19.1
+"Ciclista não especificado traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V19.2
+Ciclista (qualquer) traumatizado em um acidente não especificado e não-de-trânsito,V19.3
+"Condutor traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V19.4
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V19.5
+"Ciclista não especificado traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V19.6
+Ciclista (qualquer) traumatizado em outros acidentes de transporte especificados,V19.8
+Ciclista (qualquer) traumatizado em um acidente de trânsito não especificado,V19.9
+Motociclista traumatizado em colisão com um pedestre ou um animal,V20
+Motociclista traumatizado em colisão com um veículo a pedal,V21
+Motociclista traumatizado em colisão com um veículo a motor de duas ou três rodas,V22
+"Motociclista traumatizado em colisão com um automóvel (carro), “pick up” ou caminhonete",V23
+Motociclista traumatizado em colisão com um veículo de transporte pesado ou um ônibus,V24
+Motociclista traumatizado em colisão com um trem ou um veículo ferroviário,V25
+Motociclista traumatizado em colisão com outro veículo não-motorizado,V26
+Motociclista traumatizado em colisão com um objeto fixo ou parado,V27
+Motociclista traumatizado em um acidente de transporte sem colisão,V28
+Motociclista traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V29
+"Condutor traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V29.0
+"Passageiro traumatizado em colisão com outros veículos com veículos não especificados, a motor, em um acidente não-de-trânsito",V29.1
+"Motociclista não especificado traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V29.2
+"Motociclista (qualquer) traumatizado em um acidente não especificado, não-de-trânsito",V29.3
+"Condutor traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V29.4
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V29.5
+"Motociclista não especificado traumatizado em colisão com outros veículos e com veículos não especificados, a motor em um acidente de trânsito",V29.6
+Motociclista (qualquer) traumatizado em outros acidentes de transporte especificados,V29.8
+Motociclista (qualquer) traumatizado em um acidente de trânsito não especificado,V29.9
+Ocupante de um triciclo motorizado traumatizado em colisão com um pedestre ou um animal,V30
+Ocupante de um triciclo motorizado traumatizado em colisão com um veículo a pedal,V31
+Ocupante de um triciclo motorizado traumatizado em colisão com outro veículo a motor de duas ou três rodas,V32
+"Ocupante de um triciclo motorizado traumatizado em colisão com um automóvel, “pick up” ou caminhonete",V33
+Ocupante de um triciclo motorizado traumatizado em colisão com um veículo de transporte pesado ou um ônibus,V34
+Ocupante de um triciclo motorizado traumatizado em colisão com um trem [comboio] ou um veículo ferroviário,V35
+Ocupante de um triciclo motorizado traumatizado em colisão com outro veículo não-motorizado,V36
+Ocupante de um triciclo motorizado traumatizado em colisão com um objeto fixo ou parado,V37
+Ocupante de um triciclo motorizado traumatizado em um acidente de transporte sem colisão,V38
+Ocupante de um triciclo motorizado traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V39
+"Condutor traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V39.0
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V39.1
+"Ocupante não especificado de um triciclo motorizado traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V39.2
+Ocupante [qualquer] de um triciclo motorizado traumatizado em um acidente não especificado e não-de-trânsito,V39.3
+"Condutor traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V39.4
+"Passageiro traumatizado em colisão outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V39.5
+"Ocupante não especificado de um triciclo motorizado traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V39.6
+Ocupante [qualquer] de um triciclo motorizado traumatizado em outros acidentes de trânsito especificados,V39.8
+"Ocupante [qualquer] de um triciclo motorizado, traumatizado em acidente de trânsito não especificado",V39.9
+Ocupante de um automóvel (carro) traumatizado em colisão com um pedestre ou um animal,V40
+Ocupante de um automóvel (carro) traumatizado em colisão com um veículo a pedal,V41
+Ocupante de um automóvel (carro) traumatizado em colisão com outro veículo a motor de duas ou três rodas,V42
+"Ocupante de um automóvel (carro) traumatizado em colisão com um automóvel [carro], “pick up” ou caminhonete",V43
+Ocupante de um automóvel (carro) traumatizado em colisão com um veículo de transporte pesado ou um ônibus,V44
+Ocupante de um automóvel (carro) traumatizado em colisão com um trem [comboio] ou um veículo ferroviário,V45
+Ocupante de um automóvel (carro) traumatizado em colisão com outro veículo não-motorizado,V46
+Ocupante de um automóvel (carro) traumatizado em colisão com um objeto fixo ou parado,V47
+Ocupante de um automóvel (carro) traumatizado em um acidente de transporte sem colisão,V48
+Ocupante de um automóvel (carro) traumatizado em outro acidentes de transporte e em acidentes de transporte não especificados,V49
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor em um acidente não-de-trânsito",V49.0
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V49.1
+"Ocupante não especificado de um automóvel (carro) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V49.2
+Ocupante (qualquer) de um automóvel (carro,V49.3
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V49.4
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V49.5
+"Ocupante não especificado de um automóvel (carro) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V49.6
+Ocupante (qualquer) de um automóvel (carro,V49.8
+Ocupante (qualquer) de um automóvel (carro,V49.9
+Ocupante de uma caminhonete traumatizado em colisão com um pedestre ou um animal,V50
+Ocupante de uma caminhonete traumatizado em colisão com um veículo a pedal,V51
+Ocupante de uma caminhonete traumatizado em colisão com veículo a motor de duas ou três rodas,V52
+Ocupante de uma caminhonete traumatizado em colisão com um automóvel (carro) ou uma caminhonete,V53
+Ocupante de uma caminhonete traumatizado em colisão com um veículo de transporte pesado ou um ônibus,V54
+Ocupante de uma caminhonete traumatizado em colisão com um trem (comboio) ou veículo ferroviário,V55
+Ocupante de uma caminhonete traumatizado em colisão com outro veículo não-motorizado,V56
+Ocupante de uma caminhonete traumatizado em colisão com um objeto fixo ou parado,V57
+Ocupante de uma caminhonete traumatizado em um acidente de transporte sem colisão,V58
+Ocupante de uma caminhonete traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V59
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V59.0
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V59.1
+"Ocupante não especificado de uma caminhonete traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V59.2
+Ocupante (qualquer) de uma caminhonete traumatizado em um acidente não especificado e não-de-trânsito,V59.3
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V59.4
+"Passageiro de uma caminhonete traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V59.5
+"Ocupante não especificado de uma caminhonete traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V59.6
+Ocupante (qualquer) de uma caminhonete traumatizado em outros acidentes de transporte especificados,V59.8
+Ocupante (qualquer) de uma caminhonete traumatizado em um acidente de trânsito não especificado,V59.9
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um pedestre ou um animal,V60
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um veículo a pedal,V61
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um veículo a motor de duas ou três rodas,V62
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um automóvel (carro) ou uma caminhonete,V63
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um outro veículo de transporte pesado ou um ônibus,V64
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um trem (comboio) ou um veículo ferroviário,V65
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um outro veículo não-motorizado,V66
+Ocupante de um veículo de transporte pesado traumatizado em colisão com um objeto fixo ou parado,V67
+Ocupante de um veículo de transporte pesado traumatizado em um acidente de transporte sem colisão,V68
+Ocupante de um veículo de transporte pesado traumatizado em outros acidentes de transporte não especificados,V69
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V69.0
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V69.1
+"Ocupante não especificado de um veículo de transporte pesado traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V69.2
+Ocupante (qualquer) de um veículo de transporte pesado traumatizado em um acidente não especificado e não-de-trânsito,V69.3
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V69.4
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V69.5
+"Ocupante não especificado de um veículo de transporte pesado traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V69.6
+Ocupante (qualquer) de um veículo de transporte pesado traumatizado em outros acidentes de transporte especificados,V69.8
+Ocupante (qualquer) de um veículo de transporte pesado traumatizado em um acidente de trânsito não especificado,V69.9
+Ocupante de um ônibus traumatizado em colisão com um pedestre ou um animal,V70
+Ocupante de um ônibus traumatizado em colisão com um veículo a pedal,V71
+Ocupante de um ônibus traumatizado em colisão com um outro veículo a motor de duas ou três rodas,V72
+Ocupante de um ônibus traumatizado em colisão com um automóvel (carro) ou uma caminhonete,V73
+Ocupante de um ônibus traumatizado em colisão com um veículo de transporte pesado ou um ônibus,V74
+Ocupante de um ônibus traumatizado em colisão com um trem (comboio) ou um veículo ferroviário,V75
+Ocupante de um ônibus traumatizado em colisão com outro veículo não-motorizado,V76
+Ocupante de um ônibus traumatizado em colisão com um objeto fixo ou parado,V77
+Ocupante de um ônibus traumatizado em um acidente de transporte sem colisão,V78
+Ocupante de um ônibus traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V79
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V79.0
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente não-de-trânsito",V79.1
+"Ocupante não especificado de um ônibus traumatizado em colisão com outros veículos e com um veículos não especificados, a motor, em um acidente não-de-trânsito",V79.2
+Ocupante (qualquer) de um ônibus traumatizado em um acidente não-de-trânsito,V79.3
+"Condutor (motorista) traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V79.4
+"Passageiro traumatizado em colisão com outros veículos e com veículos não especificados, a motor, em um acidente de trânsito",V79.5
+"Ocupante não especificado de um ônibus traumatizado em colisão com um outros veículos e com um veículos não especificados, a motor, em um acidente de trânsito",V79.6
+Ocupante (qualquer) de um ônibus traumatizado em outros acidentes de transporte especificados,V79.8
+Ocupante (qualquer) de um ônibus traumatizado em um acidente de trânsito não especificado,V79.9
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em um acidente de transporte,V80
+Queda ou ejeção de uma pessoa montada em animal ou ocupante de um veículo a tração animal em um acidente sem colisão,V80.0
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um pedestre ou um animal,V80.1
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um veículo a pedal,V80.2
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um veículo a motor de duas ou três rodas,V80.3
+"Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um automóvel (carro), uma caminhonete, um veículo de transporte pesado ou um ônibus",V80.4
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um outro veículo a motor especificado,V80.5
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um trem (comboio) ou um veículo ferroviário,V80.6
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um outro veículo não-motorizado,V80.7
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em colisão com um objeto fixo ou parado,V80.8
+Pessoa montada em animal ou ocupante de um veículo a tração animal traumatizado em outros acidentes de transporte e em acidentes de transporte não especificados,V80.9
+Ocupante de um trem (comboio) ou um veículo ferroviário traumatizado em um acidente de transporte,V81
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado em colisão com um veículo a motor em um acidente não-de-trânsito,V81.0
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado em colisão com um veículo a motor em um acidente de trânsito,V81.1
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado em colisão com ou atingido por material rodante,V81.2
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado em colisão com outro objeto,V81.3
+Pessoa traumatizada ao subir ou descer de um trem (comboio) ou de um veículo ferroviário,V81.4
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado devido a uma queda no interior dos mesmos,V81.5
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado devido a uma queda do trem ou do veículo ferroviário,V81.6
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado em razão de um descarrilhamento sem colisão antecedente,V81.7
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado em outro acidente ferroviário especificado,V81.8
+Ocupante de um trem (comboio) ou de um veículo ferroviário traumatizado em um acidente ferroviário não especificado,V81.9
+Ocupante de um bonde (carro elétrico) traumatizado em um acidente de transporte,V82
+Ocupante de um bonde (carro elétrico) traumatizado em uma colisão com um veículo a motor em um acidente não-de-trânsito,V82.0
+Ocupante de um bonde (carro elétrico) traumatizado em uma colisão com um veículo a motor em um acidente de trânsito,V82.1
+Ocupante de um bonde (carro elétrico) traumatizado em uma colisão com ou atingido por material rodante,V82.2
+Ocupante de um bonde (carro elétrico) traumatizado em uma colisão com outro objeto,V82.3
+Pessoa traumatizada ao subir ou descer de um bonde (carro elétrico),V82.4
+Ocupante de um bonde (carro elétrico) traumatizado devido a uma queda no interior do mesmo,V82.5
+Ocupante de um bonde (carro elétrico) traumatizado devido a uma queda do mesmo,V82.6
+Ocupante de um bonde (carro elétrico) traumatizado devido a um descarrilhamento sem colisão antecedente,V82.7
+Ocupante de um bonde (carro elétrico) traumatizado em outros acidentes de transporte especificados,V82.8
+Ocupante de um bonde (carro elétrico) traumatizado em um acidente de trânsito não especificado,V82.9
+Ocupante de um veículo especial a motor usado principalmente em áreas industriais traumatizado em um acidente de transporte,V83
+Condutor (motorista) de um veículo especial a motor usado principalmente em áreas industrias traumatizado em um acidente de trânsito,V83.0
+Passageiro de um veículo especial a motor usado principalmente em áreas industriais traumatizado em um acidente de trânsito,V83.1
+Pessoa viajando no exterior de um veículo especial a motor usado principalmente em áreas industriais traumatizado em um acidente de trânsito,V83.2
+Ocupante não especificado de um veículo especial a motor usado principalmente em áreas industriais traumatizado em um acidente de trânsito,V83.3
+Pessoa traumatizada ao subir ou descer de um veículo especial a motor usado principalmente em áreas industriais,V83.4
+Condutor (motorista) de um veículo especial a motor usado principalmente em áreas industrias traumatizado em um acidente não-de-trânsito,V83.5
+Passageiro de um veículo especial a motor usado principalmente em áreas industriais traumatizado em um acidente não-de-trânsito,V83.6
+Pessoa viajando no exterior de um veículo especial a motor usado principalmente em áreas industriais traumatizado em um acidente não-de-trânsito,V83.7
+Ocupante não especificado de um veículo especial a motor usado principalmente em áreas industriais traumatizado em um acidente não-de-trânsito,V83.9
+Ocupante de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente de transporte,V84
+Condutor (motorista) de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente de trânsito,V84.0
+Passageiro de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente de trânsito,V84.1
+Pessoa viajando no exterior de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente de trânsito,V84.2
+Ocupante não especificado de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente de trânsito,V84.3
+Pessoa traumatizado ao subir ou descer de um veículo especial a motor de uso essencialmente agrícola,V84.4
+Condutor (motorista) de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente não-de-trânsito,V84.5
+Passageiro de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente não-de-trânsito,V84.6
+Pessoa viajando no exterior de um veículo especial a motor de uso essencialmente agrícola traumatizado em um acidente não-de-trânsito,V84.7
+Ocupante não especificado de um veículo especial a motor de uso essencialmente agrícola traumatizada em um acidente não-de-trânsito,V84.9
+Ocupante de um veículo a motor especial de construções traumatizado em um acidente de transporte,V85
+Condutor (motorista) de um veículo a motor especial de construções traumatizado em um acidente de trânsito,V85.0
+Passageiro de um veículo a motor especial de construções traumatizado em um acidente de trânsito,V85.1
+Pessoa viajando no exterior de um veículo a motor especial de construções traumatizado em um acidente de trânsito,V85.2
+Ocupante não especificado de um veículo a motor especial de construções traumatizado em um acidente de trânsito,V85.3
+Pessoa traumatizada ao subir ou descer de um veículo a motor especial de construções,V85.4
+Condutor (motorista) de um veículo a motor especial de construções traumatizado em um acidente não-de-trânsito,V85.5
+Passageiro de um veículo a motor especial de construções traumatizado em um acidente não-de-trânsito,V85.6
+Pessoa viajando no exterior de um veículo a motor especial de construções traumatizado em um acidente não-de-trânsito,V85.7
+Ocupante não especificado de um veículo a motor especial de construções traumatizado em um acidente não-de-trânsito,V85.9
+"Ocupante de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública, traumatizado em um acidente de transporte",V86
+"Condutor (motorista) de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública, traumatizado em um acidente de trânsito",V86.0
+"Passageiro de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública, traumatizado em um acidente de trânsito",V86.1
+"Pessoa viajando no exterior de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública, traumatizado em um acidente de trânsito",V86.2
+Ocupante não especificado de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública traumatizado em um acidente de trânsito,V86.3
+Pessoa traumatizada ao subir ou descer de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública,V86.4
+Condutor (motorista) de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública traumatizado em um acidente não-de-trânsito,V86.5
+Passageiro de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública traumatizado em um acidente não-de-trânsito,V86.6
+Pessoa viajando no exterior de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública traumatizado em um acidente não-de-trânsito,V86.7
+Ocupante não especificado de um veículo especial para qualquer terreno ou de outro veículo a motor projetado essencialmente para uso não em via pública traumatizado em um acidente não-de-trânsito,V86.9
+"Acidente de trânsito de tipo especificado, mas sendo desconhecido o modo de transporte da vítima",V87
+Pessoa traumatizada em uma colisão entre um automóvel (carro) e um veículo a motor de duas ou três rodas (acidente de trânsito,V87.0
+Pessoa traumatizada em uma colisão entre outro veículo a motor e um veículo a motor de duas ou três rodas (acidente de trânsito),V87.1
+Pessoa traumatizada em uma colisão entre um automóvel (carro) e uma caminhonete (acidente de trânsito,V87.2
+Pessoa traumatizada em uma colisão entre um automóvel (carro) e um ônibus (acidente de trânsito,V87.3
+Pessoa traumatizada em uma colisão entre um automóvel (carro) e um veículo de transporte pesado (acidente de trânsito,V87.4
+Pessoa traumatizada em uma colisão entre um veículo de transporte pesado e um ônibus (acidente de trânsito),V87.5
+Pessoa traumatizada em uma colisão entre um trem ou um veículo ferroviário e um automóvel (carro) (acidente de trânsito,V87.6
+Pessoa traumatizada em uma colisão entre outros veículos a motor especificados (acidente de trânsito),V87.7
+"Pessoa traumatizada em outros acidentes de transporte especificados com veículo a motor, sem colisão (acidente de trânsito)",V87.8
+Pessoa traumatizada em outros acidentes de transporte especificados (com colisão) (sem colisão,V87.9
+"Acidente não-de-trânsito de tipo especificado, mas sendo desconhecido o modo de transporte da vítima",V88
+"Pessoa traumatizada em uma colisão entre um automóvel (carro) e um veículo a motor de duas ou três rodas, não-de-trânsito",V88.0
+"Pessoa traumatizada em uma colisão entre outro veículo a motor e um veículo a motor de duas ou três rodas, não-de-trânsito",V88.1
+"Pessoa traumatizada em uma colisão entre um automóvel (carro) e uma caminhonete, não-de-trânsito",V88.2
+"Pessoa traumatizada em uma colisão entre um automóvel (carro) e um ônibus, não-de-trânsito",V88.3
+"Pessoa traumatizada em uma colisão entre um automóvel (carro) e um veículo de transporte pesado, não-de-trânsito",V88.4
+"Pessoa traumatizada em uma colisão entre um veículo de transporte pesado e um ônibus, não-de-trânsito",V88.5
+"Pessoa traumatizada em uma colisão entre um trem ou um veículo ferroviário e um automóvel (carro), não-de-trânsito",V88.6
+"Pessoa traumatizada em uma colisão entre outros veículos a motor especificados, não-de-trânsito",V88.7
+"Pessoa traumatizada em outros acidentes de transporte especificados, com um veículo a motor, sem colisão, não-de-trânsito",V88.8
+Pessoa traumatizada em outros acidente de transporte especificados (com colisão) (sem colisão,V88.9
+"Acidente com um veículo a motor ou não-motorizado, tipo(s) de veículo(s",V89
+"Pessoa traumatizada em um acidente com um veículo a motor não especificado, não-de-trânsito",V89.0
+"Pessoa traumatizada em um acidente com veículo não-motorizado, não especificado, não-de-trânsito",V89.1
+Pessoa traumatizada em um acidente de trânsito com um veículo a motor não especificado,V89.2
+"Pessoa traumatizado em um acidente de trânsito com um veículo não-motorizado, não especificado",V89.3
+Pessoa traumatizada em um acidente com um veículo não especificado,V89.9
+Acidente com embarcação causando afogamento e submersão,V90
+Acidente com embarcação causando outro tipo de traumatismo,V91
+Afogamento e submersão relacionados com transporte por água sem acidente com a embarcação,V92
+"Acidente a bordo de uma embarcação, sem acidente da embarcação e não causando afogamento ou submersão",V93
+Outros acidentes de transporte por água e os não especificados,V94
+Acidente de aeronave a motor causando traumatismo ao ocupante,V95
+Acidente de helicóptero causando traumatismo a ocupante,V95.0
+Acidente de planador motorizado e ultraleve causando traumatismo a ocupante,V95.1
+Acidente de outra aeronave de asa fixa de uso particular causando traumatismo a ocupante,V95.2
+Acidente de aeronave de asa fixa de uso comercial causando traumatismo a ocupante,V95.3
+Acidente de nave espacial causando traumatismo a ocupante,V95.4
+Outros acidente de aeronaves causando traumatismo a ocupante,V95.8
+Acidente de aeronave não especificada causando traumatismo a ocupante,V95.9
+Acidente de uma aeronave sem motor causando traumatismo a ocupante,V96
+Acidente de balão causando traumatismo a ocupante,V96.0
+Acidente de asa delta causando traumatismo a ocupante,V96.1
+Acidente de planador (não-motorizado) causando traumatismo a ocupante,V96.2
+Outros acidentes de aeronaves não-motorizadas causando traumatismo a ocupante,V96.8
+Acidente não especificado de aeronave não-motorizada causando traumatismo a ocupante,V96.9
+Outros acidentes especificados de transporte aéreo,V97
+Ocupante de uma aeronave traumatizado em outros acidentes de transporte aéreo especificados,V97.0
+Pessoa traumatizada ao embarcar em ou desembarcar de uma aeronave,V97.1
+Paraquedista traumatizado em acidente de transporte aéreo,V97.2
+Pessoa em terra traumatizada em acidente de transporte aéreo,V97.3
+Outros acidentes de transporte aéreo não classificados em outra parte,V97.8
+Outros acidentes de transporte especificados,V98
+Acidente de transporte não especificado,V99
